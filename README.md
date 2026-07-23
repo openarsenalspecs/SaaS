@@ -141,7 +141,7 @@ It improves content consumption and engagement.
 AI platform turning messaging prompts into code, apps, and projects with multi-platform integration.  
 It bridges natural communication and development workflows.  
 
-- **OpenDataLedger**  
+- [**OpenDataLedger Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f967804d4c045dd9681bad37de2b1281d6618685/OpenDataLedger.md)    
 [https://roxanneardary.com/opendataledger/](https://roxanneardary.com/opendataledger/)  
 An open-source universal encrypted API engine designed to connect, unify, and securely manage data across virtually any system.  
 It simplifies secure data interoperability.  
