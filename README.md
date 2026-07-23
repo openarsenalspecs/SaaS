@@ -46,7 +46,7 @@ It facilitates collaboration between different sectors through shared intelligen
 An open-source, multi-cloud, zero-trust infrastructure platform that combines strong security, AI-driven automation, and a low-code developer experience for managing infrastructure across diverse environments.  
 It supports public clouds, hybrid, edge, and self-hosted setups with privacy focus.  
 
-- **CodeDrop**  
+- [**CodeDrop Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/4acd0ee64b264657668b107c031dc58bd927783a/CodeDrop.md)    
 [https://roxanneardary.com/codedrop/](https://roxanneardary.com/codedrop/)  
 An open-source, secure, peer-to-peer system that lets you send executable apps instantly with one click using time-limited access codes and zero personal data.  
 It enables frictionless and private software distribution.  
