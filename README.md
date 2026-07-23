@@ -31,7 +31,7 @@ It provides fine-grained control over visual data presentation while maintaining
 An open-source trust-centered cloud storage platform focused on end-to-end encryption, verifiable file integrity, authorship proof, and secure global access.  
 It emphasizes user ownership and transparency in data handling.  
 
-- **ChangeCore**  
+- [**ChangeCore**](https://github.com/openarsenalspecs/SaaS/blob/669127dc0f4b0ebee52901e36d442dcdf87e0b5e/ChangeCore.md)  
 [https://roxanneardary.com/changecore/](https://roxanneardary.com/changecore/)  
 A content intelligence system that continuously evolves web content to maintain relevance, accuracy, and AI search visibility through multi-agent analysis and real-time data ingestion.  
 It helps digital content stay optimized for modern discovery mechanisms.  
