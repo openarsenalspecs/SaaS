@@ -106,7 +106,7 @@ It creates meaningful visual identities from textual foundations.
 An open-source, AI-assisted inspection platform that analyzes images to detect structural defects, risks, and anomalies with precision.  
 It aids in safety and maintenance assessments through visual intelligence.  
 
-- **IteraMind**  
+- [**IteraMind Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/58be322d31acb918799eee7894df17843c36a8e1/IteraMind.md)    
 [https://roxanneardary.com/iteramind/](https://roxanneardary.com/iteramind/)  
 The Engine Behind Autonomous AI, a self-improving open-source intelligence system designed to reason, plan, execute, and evolve over time.  
 It serves as a core framework for advanced autonomous systems.  
