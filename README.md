@@ -66,8 +66,8 @@ It promotes ethical code synthesis across projects.
 An open-source AI platform that detects, analyzes, and helps enforce against potential trademark infringements across the web through automated monitoring and human-reviewed reporting.  
 It safeguards intellectual property with intelligent oversight.  
 
-- **Continuum Companion**  
-[https://gitlab.com/Roxanne_Ardary/continuum-companion](https://gitlab.com/Roxanne_Ardary/continuum-companion)  
+- [**Continuum Companion Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b05b30251ccb9c879a1086ef943d44a31c3ab403/Continuum%20Companion.md)    
+[https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)   
 A modular, locally hosted, open-source AI wellness and research platform that integrates Eastern medicinal traditions and Western medical knowledge through source-backed tools.  
 It supports integrative health approaches alongside professional care.  
 
