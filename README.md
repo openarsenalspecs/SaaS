@@ -186,7 +186,7 @@ It provides robust and scalable data safeguarding.
 An open-source AI cybersecurity platform that turns millions of devices into a unified, self-updating defense network against threats.  
 It leverages collective intelligence for protection.  
 
-- **SubscriptionIndex**  
+- [**SubscriptionIndex Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/1a9268070a7f0fb1c062ce233c51dfb7c9cc8fca/SubscriptionIndex.md)    
 [https://roxanneardary.com/subscriptionindex/](https://roxanneardary.com/subscriptionindex/)  
 An open-source, privacy-first AI system that detects subscriptions from financial data, explains contract terms, and helps prevent unexpected renewals.  
 It empowers users with subscription transparency and control.  
