@@ -201,7 +201,7 @@ It adapts AI to specific geographic and contextual needs.
 Tracks rental registrations, landlord certifications, and census discrepancies at the town level with analytics and predictive insights.  
 It supports local governance and housing transparency.  
 
-- **VeriChain**  
+- [**VeriChain Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/595e62cbb67dedccb5ce6099db0197d56f7b1802/VeriChain.md)    
 [https://roxanneardary.com/verichain/](https://roxanneardary.com/verichain/)  
 An open-source AI-powered truth verification system that analyzes public data to generate evidence-based, probabilistic truth assessments with full transparency.  
 It aids in combating misinformation through verifiable analysis.
