@@ -116,7 +116,7 @@ It serves as a core framework for advanced autonomous systems.
 An open-source universal repository hub that consolidates creators’ projects across platforms and uses AI to connect developers based on shared ideas.  
 It fosters collaboration through conceptual alignment.  
 
-- **MeshCore**  
+- [**MeshCore Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/96b853bee94fa23e97706363e6aeaf0116274ba8/MeshCore.md)    
 [https://roxanneardary.com/meshcore/](https://roxanneardary.com/meshcore/)  
 Privacy-first, modular infrastructure for secure digital identity management across devices.  
 It enables seamless and protected identity handling.  
