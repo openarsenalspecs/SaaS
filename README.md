@@ -176,7 +176,7 @@ It creates a comprehensive private digital environment.
 An open-source, AI-powered secure mobile app hub where developers can upload, share, and verify applications with encrypted data and automated malware detection.  
 It promotes safe software distribution.  
 
-- **Sentryx**  
+- [**Sentryx Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b002fef6fac21481d8692099042af9de01563f30/Sentryx.md)    
 [https://roxanneardary.com/sentryx/](https://roxanneardary.com/sentryx/)  
 A modular, open-source cloud backup and data protection system built with end-to-end encryption, distributed storage, and optional AI assistance.  
 It provides robust and scalable data safeguarding.  
