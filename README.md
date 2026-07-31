@@ -141,7 +141,7 @@ An open-source adaptive motion intelligence framework that unifies real-time veh
 [https://roxanneardary.com/quantumsanctum/](https://roxanneardary.com/quantumsanctum/)  
 A human-centric, end-to-end encrypted digital ecosystem that unifies secure storage, AI-powered collaboration, and privacy-first computing in one open-source platform.  It creates a comprehensive private digital environment.  
 
-- **SafeForge**  
+- [**SafeForge Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/29ff68f74f1039e80ce70b55fe566a09ba693c73/SafeForge.md)    
 [https://roxanneardary.com/safeforge/](https://roxanneardary.com/safeforge/)  
 An open-source, AI-powered secure mobile app hub where developers can upload, share, and verify applications with encrypted data and automated malware detection.  It promotes safe software distribution.  
 
