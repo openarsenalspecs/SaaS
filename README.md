@@ -101,7 +101,7 @@ An open-source universal repository hub that consolidates creators’ projects a
 [https://roxanneardary.com/meshcore/](https://roxanneardary.com/meshcore/)  
 Privacy-first, modular infrastructure for secure digital identity management across devices.  It enables seamless and protected identity handling.  
 
-- **Mindora**  
+- [**Mindora Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/17e830f11333cd21dcb5a87d5fe09b6dab0c9c1d/Mindora.md)    
 [https://roxanneardary.com/mindora/](https://roxanneardary.com/mindora/)  
 AI tutor delivering personalized, source-verified lessons across all subjects with interactive visualizations.  It supports comprehensive learning with verified knowledge.  
 
