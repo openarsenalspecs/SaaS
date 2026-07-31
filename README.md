@@ -157,7 +157,7 @@ An open-source AI cybersecurity platform that turns millions of devices into a u
 [https://roxanneardary.com/subscriptionindex/](https://roxanneardary.com/subscriptionindex/)  
 An open-source, privacy-first AI system that detects subscriptions from financial data, explains contract terms, and helps prevent unexpected renewals.  It empowers users with subscription transparency and control.  
 
-- **SYSTEMIC AI FABRIC**  
+- [**SYSTEMIC AI FABRIC Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/daa3da71899da7aec3d1a688c1e35f8288792b63/SYSTEMIC%20AI%20FABRIC.md)    
 [https://roxanneardary.com/systemic-ai-fabric/](https://roxanneardary.com/systemic-ai-fabric/)  
 A modular AGPL-3.0+ framework for compiling regional AI systems shaped by local industry, infrastructure, and governance conditions.  It adapts AI to specific geographic and contextual needs.  
 
