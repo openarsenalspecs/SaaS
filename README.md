@@ -59,68 +59,55 @@ An open-source AI platform that detects, analyzes, and helps enforce against pot
 
 - [**Continuum Companion Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b05b30251ccb9c879a1086ef943d44a31c3ab403/Continuum%20Companion.md)    
 [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)   
-A modular, locally hosted, open-source AI wellness and research platform that integrates Eastern medicinal traditions and Western medical knowledge through source-backed tools.  
-It supports integrative health approaches alongside professional care.  
+A modular, locally hosted, open-source AI wellness and research platform that integrates Eastern medicinal traditions and Western medical knowledge through source-backed tools.  It supports integrative health approaches alongside professional care.  
 
 - **Corelia**  
 [https://roxanneardary.com/corelia/](https://roxanneardary.com/corelia/)  
-An open-source, AI-powered CMS with end-to-end encryption, SEO and LLM optimization, and built-in web scraping tools for fully sovereign digital content management.  
-It empowers users with complete control over their content infrastructure.  
+An open-source, AI-powered CMS with end-to-end encryption, SEO and LLM optimization, and built-in web scraping tools for fully sovereign digital content management.  It empowers users with complete control over their content infrastructure.  
 
 - **CryptaVault**  
 [https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
-An open-source, zero-knowledge, end-to-end encrypted cloud storage system designed for secure cross-device synchronization and full user data ownership.  
-It prioritizes compression efficiency alongside privacy.  
+An open-source, zero-knowledge, end-to-end encrypted cloud storage system designed for secure cross-device synchronization and full user data ownership.  It prioritizes compression efficiency alongside privacy.  
 
 - **CyberChimera**  
 [https://roxanneardary.com/cyberchimera/](https://roxanneardary.com/cyberchimera/)  
-A next-generation autonomous cybersecurity intelligence platform that leverages multi-agent AI to predict, simulate, and respond to cyber threats.  
-It operates within a secure, extensible environment for both offensive and defensive capabilities.  
+A next-generation autonomous cybersecurity intelligence platform that leverages multi-agent AI to predict, simulate, and respond to cyber threats.  It operates within a secure, extensible environment for both offensive and defensive capabilities.  
 
-- **GeoListing**  
+- [**GeoListing Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f057ef2aa8dd6838f0436a0e757ad7e1563db9bf/GeoListing.md)    
 [https://roxanneardary.com/geolisting/](https://roxanneardary.com/geolisting/)  
-Open Semantic Infrastructure for Real Estate, an AI-powered platform for listing generation, SEO optimization, compliance automation, and semantic property discovery.  
-It streamlines real estate processes with intelligent tools.  
+Open Semantic Infrastructure for Real Estate, an AI-powered platform for listing generation, SEO optimization, compliance automation, and semantic property discovery.  It streamlines real estate processes with intelligent tools.  
 
 - **Glasshouse**  
 [https://roxanneardary.com/glasshouse/](https://roxanneardary.com/glasshouse/)  
-An AI-powered cocktail and mocktail companion that manages your inventory, creates personalized recipes, and tracks prices while keeping your data private.  
-It enhances home bartending with intelligent assistance.  
+An AI-powered cocktail and mocktail companion that manages your inventory, creates personalized recipes, and tracks prices while keeping your data private.  It enhances home bartending with intelligent assistance.  
 
 - **GlyphWorks**  
 [https://roxanneardary.com/glyphworks/](https://roxanneardary.com/glyphworks/)  
-An open-source AI system that translates mission statements and core values into explainable, vector-based logo and identity designs through semantic-to-symbolic generation.  
-It creates meaningful visual identities from textual foundations.  
+An open-source AI system that translates mission statements and core values into explainable, vector-based logo and identity designs through semantic-to-symbolic generation.  It creates meaningful visual identities from textual foundations.  
 
 - **Inspectra**  
 [https://roxanneardary.com/inspectra/](https://roxanneardary.com/inspectra/)  
-An open-source, AI-assisted inspection platform that analyzes images to detect structural defects, risks, and anomalies with precision.  
-It aids in safety and maintenance assessments through visual intelligence.  
+An open-source, AI-assisted inspection platform that analyzes images to detect structural defects, risks, and anomalies with precision.  It aids in safety and maintenance assessments through visual intelligence.  
 
 - [**IteraMind Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/58be322d31acb918799eee7894df17843c36a8e1/IteraMind.md)    
 [https://roxanneardary.com/iteramind/](https://roxanneardary.com/iteramind/)  
-The Engine Behind Autonomous AI, a self-improving open-source intelligence system designed to reason, plan, execute, and evolve over time.  
-It serves as a core framework for advanced autonomous systems.  
+The Engine Behind Autonomous AI, a self-improving open-source intelligence system designed to reason, plan, execute, and evolve over time.  It serves as a core framework for advanced autonomous systems.  
 
 - **KindredCode**  
 [https://roxanneardary.com/kindredcode/](https://roxanneardary.com/kindredcode/)  
-An open-source universal repository hub that consolidates creators’ projects across platforms and uses AI to connect developers based on shared ideas.  
-It fosters collaboration through conceptual alignment.  
+An open-source universal repository hub that consolidates creators’ projects across platforms and uses AI to connect developers based on shared ideas.  It fosters collaboration through conceptual alignment.  
 
 - [**MeshCore Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/96b853bee94fa23e97706363e6aeaf0116274ba8/MeshCore.md)    
 [https://roxanneardary.com/meshcore/](https://roxanneardary.com/meshcore/)  
-Privacy-first, modular infrastructure for secure digital identity management across devices.  
-It enables seamless and protected identity handling.  
+Privacy-first, modular infrastructure for secure digital identity management across devices.  It enables seamless and protected identity handling.  
 
 - **Mindora**  
 [https://roxanneardary.com/mindora/](https://roxanneardary.com/mindora/)  
-AI tutor delivering personalized, source-verified lessons across all subjects with interactive visualizations.  
-It supports comprehensive learning with verified knowledge.  
+AI tutor delivering personalized, source-verified lessons across all subjects with interactive visualizations.  It supports comprehensive learning with verified knowledge.  
 
 - **Model Verification Layer**  
 [https://roxanneardary.com/model-verification-layer/](https://roxanneardary.com/model-verification-layer/)  
-Structured verification for AI systems that evaluates, compares, and validates large language model behavior through benchmarking and consensus analysis.  
-It enhances trustworthiness of AI outputs.  
+Structured verification for AI systems that evaluates, compares, and validates large language model behavior through benchmarking and consensus analysis.  It enhances trustworthiness of AI outputs.  
 
 - **NarrativeLayer**  
 [https://roxanneardary.com/narrativelayer/](https://roxanneardary.com/narrativelayer/)  
