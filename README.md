@@ -105,7 +105,7 @@ Privacy-first, modular infrastructure for secure digital identity management acr
 [https://roxanneardary.com/mindora/](https://roxanneardary.com/mindora/)  
 AI tutor delivering personalized, source-verified lessons across all subjects with interactive visualizations.  It supports comprehensive learning with verified knowledge.  
 
-- **Model Verification Layer**  
+- [**Model Verification Layer Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/d2a20d351b9eba07aa9b60b0762c9cebf49a67ed/Model%20Verification%20Layer.md)    
 [https://roxanneardary.com/model-verification-layer/](https://roxanneardary.com/model-verification-layer/)  
 Structured verification for AI systems that evaluates, compares, and validates large language model behavior through benchmarking and consensus analysis.  It enhances trustworthiness of AI outputs.  
 
