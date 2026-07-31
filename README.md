@@ -93,7 +93,7 @@ An open-source, AI-assisted inspection platform that analyzes images to detect s
 [https://roxanneardary.com/iteramind/](https://roxanneardary.com/iteramind/)  
 The Engine Behind Autonomous AI, a self-improving open-source intelligence system designed to reason, plan, execute, and evolve over time.  It serves as a core framework for advanced autonomous systems.  
 
-- **KindredCode**  
+- [**KindredCode Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/0a678f0591f0f779c40a541a0aa0c635e257ebd3/KindredCode.md)    
 [https://roxanneardary.com/kindredcode/](https://roxanneardary.com/kindredcode/)  
 An open-source universal repository hub that consolidates creators’ projects across platforms and uses AI to connect developers based on shared ideas.  It fosters collaboration through conceptual alignment.  
 
