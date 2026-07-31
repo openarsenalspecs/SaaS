@@ -109,7 +109,7 @@ AI tutor delivering personalized, source-verified lessons across all subjects wi
 [https://roxanneardary.com/model-verification-layer/](https://roxanneardary.com/model-verification-layer/)  
 Structured verification for AI systems that evaluates, compares, and validates large language model behavior through benchmarking and consensus analysis.  It enhances trustworthiness of AI outputs.  
 
-- **NarrativeLayer**  
+- [**NarrativeLayer Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/a19879ce868b685b54d6406314fa036aea6d463f/NarrativeLayer.md)    
 [https://roxanneardary.com/narrativelayer/](https://roxanneardary.com/narrativelayer/)  
 An open-source system that transforms RSS feeds into structured, AI-enhanced discussion threads with synchronized views.  It improves content consumption and engagement.  
 
