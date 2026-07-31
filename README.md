@@ -161,7 +161,7 @@ An open-source, privacy-first AI system that detects subscriptions from financia
 [https://roxanneardary.com/systemic-ai-fabric/](https://roxanneardary.com/systemic-ai-fabric/)  
 A modular AGPL-3.0+ framework for compiling regional AI systems shaped by local industry, infrastructure, and governance conditions.  It adapts AI to specific geographic and contextual needs.  
 
-- [**TownIntel Module Specification**(https://github.com/openarsenalspecs/SaaS/blob/e9468c35a8fcc9ba4deb19af996c67bd21412d3e/TownIntel.md)    
+- [**TownIntel Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/e9468c35a8fcc9ba4deb19af996c67bd21412d3e/TownIntel.md)    
 [https://roxanneardary.com/townintel/](https://roxanneardary.com/townintel/)  
 Tracks rental registrations, landlord certifications, and census discrepancies at the town level with analytics and predictive insights.  It supports local governance and housing transparency.  
 
