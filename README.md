@@ -49,7 +49,7 @@ An open-source, secure, peer-to-peer system that lets you send executable apps i
 [https://roxanneardary.com/codeigniter/](https://roxanneardary.com/codeigniter/)  
 An AI-powered open-source platform that transforms ideas and social signals into ready-to-use Git repositories for developers to instantly build and collaborate. It accelerates the transition from concept to collaborative development.  
 
-- **CodeTraceAI**  
+- [**CodeTraceAI Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/ad3f17a132df5eefcf833791888bf4de86f82287/CodeTraceAI.md)    
 [https://roxanneardary.com/codetraceai/](https://roxanneardary.com/codetraceai/)  
 An open-source AI system that merges concepts and protocols from multiple repositories to generate modern code with human approval and full contributor attribution.  It promotes ethical code synthesis across projects.  
 
