@@ -129,7 +129,7 @@ The Provenance Backbone for AI, providing a sovereign attribution and lineage in
 [https://roxanneardary.com/pantrypal/](https://roxanneardary.com/pantrypal/)  
 An open-source AI-powered kitchen operating system that helps users discover recipes, track pantry inventory, and optimize shopping through natural language and image intelligence.  It streamlines household food management.  
 
-- **PrivyKey**  
+- [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/4b45a6ec354f5e713b605d73f169c75c43207067/PrivyKey.md)    
 [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
 An open-source, privacy-first encrypted authentication app that generates secure 2FA codes while keeping all secrets stored locally in a zero-knowledge vault.  It enhances authentication security without cloud dependency.  
 
