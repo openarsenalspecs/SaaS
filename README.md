@@ -23,48 +23,39 @@ The overall design philosophy emphasizes interoperability, security by default, 
 
 - [**Atlas Privacy Layer Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/ff08f2c0aac02b83ec7617cfa19196d5f68170c0/Atlas%20Privacy%20Layer.md)    
 [https://roxanneardary.com/atlas-privacy-layer/](https://roxanneardary.com/atlas-privacy-layer/)  
-A programmable privacy layer for Earth data that enables tile-level geospatial masking, scrambling, and synthetic terrain rendering to control how satellite and map imagery is displayed.  
-It provides fine-grained control over visual data presentation while maintaining privacy.  
+A programmable privacy layer for Earth data that enables tile-level geospatial masking, scrambling, and synthetic terrain rendering to control how satellite and map imagery is displayed.  It provides fine-grained control over visual data presentation while maintaining privacy.  
 
 - [**Authensia Cloud Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f76aa2fee97dd7ff3b06a3e7f0c9eee0ef3d57a8/Authensia%20Cloud.md)    
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
-An open-source trust-centered cloud storage platform focused on end-to-end encryption, verifiable file integrity, authorship proof, and secure global access.  
-It emphasizes user ownership and transparency in data handling.  
+An open-source trust-centered cloud storage platform focused on end-to-end encryption, verifiable file integrity, authorship proof, and secure global access. It emphasizes user ownership and transparency in data handling.  
 
 - [**ChangeCore Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/669127dc0f4b0ebee52901e36d442dcdf87e0b5e/ChangeCore.md)  
 [https://roxanneardary.com/changecore/](https://roxanneardary.com/changecore/)  
-A content intelligence system that continuously evolves web content to maintain relevance, accuracy, and AI search visibility through multi-agent analysis and real-time data ingestion.  
-It helps digital content stay optimized for modern discovery mechanisms.  
+A content intelligence system that continuously evolves web content to maintain relevance, accuracy, and AI search visibility through multi-agent analysis and real-time data ingestion.  It helps digital content stay optimized for modern discovery mechanisms.  
 
 - [**CivicOS AI Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/26e86b2d06f31f6b13f67295fe977ebcf1ffbb70/CivicOS%20AI.md)    
 [https://roxanneardary.com/civicos-ai/](https://roxanneardary.com/civicos-ai/)  
-An open-source AGPL-3.0+ AI operating system for building interoperable, autonomous systems that unify intelligence across public and private organizations.  
-It facilitates collaboration between different sectors through shared intelligence frameworks.  
+An open-source AGPL-3.0+ AI operating system for building interoperable, autonomous systems that unify intelligence across public and private organizations.  It facilitates collaboration between different sectors through shared intelligence frameworks.  
 
 - **CloudCommons**  
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
-An open-source, multi-cloud, zero-trust infrastructure platform that combines strong security, AI-driven automation, and a low-code developer experience for managing infrastructure across diverse environments.  
-It supports public clouds, hybrid, edge, and self-hosted setups with privacy focus.  
+An open-source, multi-cloud, zero-trust infrastructure platform that combines strong security, AI-driven automation, and a low-code developer experience for managing infrastructure across diverse environments.  It supports public clouds, hybrid, edge, and self-hosted setups with privacy focus.  
 
 - [**CodeDrop Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/4acd0ee64b264657668b107c031dc58bd927783a/CodeDrop.md)    
 [https://roxanneardary.com/codedrop/](https://roxanneardary.com/codedrop/)  
-An open-source, secure, peer-to-peer system that lets you send executable apps instantly with one click using time-limited access codes and zero personal data.  
-It enables frictionless and private software distribution.  
+An open-source, secure, peer-to-peer system that lets you send executable apps instantly with one click using time-limited access codes and zero personal data. It enables frictionless and private software distribution.  
 
 - **CodeIgniter**  
 [https://roxanneardary.com/codeigniter/](https://roxanneardary.com/codeigniter/)  
-An AI-powered open-source platform that transforms ideas and social signals into ready-to-use Git repositories for developers to instantly build and collaborate.  
-It accelerates the transition from concept to collaborative development.  
+An AI-powered open-source platform that transforms ideas and social signals into ready-to-use Git repositories for developers to instantly build and collaborate. It accelerates the transition from concept to collaborative development.  
 
 - **CodeTraceAI**  
 [https://roxanneardary.com/codetraceai/](https://roxanneardary.com/codetraceai/)  
-An open-source AI system that merges concepts and protocols from multiple repositories to generate modern code with human approval and full contributor attribution.  
-It promotes ethical code synthesis across projects.  
+An open-source AI system that merges concepts and protocols from multiple repositories to generate modern code with human approval and full contributor attribution.  It promotes ethical code synthesis across projects.  
 
 - **CommonGuard**  
 [https://roxanneardary.com/commonguard/](https://roxanneardary.com/commonguard/)  
-An open-source AI platform that detects, analyzes, and helps enforce against potential trademark infringements across the web through automated monitoring and human-reviewed reporting.  
-It safeguards intellectual property with intelligent oversight.  
+An open-source AI platform that detects, analyzes, and helps enforce against potential trademark infringements across the web through automated monitoring and human-reviewed reporting.  It safeguards intellectual property with intelligent oversight.  
 
 - [**Continuum Companion Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b05b30251ccb9c879a1086ef943d44a31c3ab403/Continuum%20Companion.md)    
 [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)   
