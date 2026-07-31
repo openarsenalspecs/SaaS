@@ -81,7 +81,7 @@ Open Semantic Infrastructure for Real Estate, an AI-powered platform for listing
 [https://roxanneardary.com/glasshouse/](https://roxanneardary.com/glasshouse/)  
 An AI-powered cocktail and mocktail companion that manages your inventory, creates personalized recipes, and tracks prices while keeping your data private.  It enhances home bartending with intelligent assistance.  
 
-- **GlyphWorks**  
+- [**GlyphWorks Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/556ace7b4d3fdce4e2f748748ed0986a544548d3/GlyphWorks.md)    
 [https://roxanneardary.com/glyphworks/](https://roxanneardary.com/glyphworks/)  
 An open-source AI system that translates mission statements and core values into explainable, vector-based logo and identity designs through semantic-to-symbolic generation.  It creates meaningful visual identities from textual foundations.  
 
