@@ -65,7 +65,7 @@ A modular, locally hosted, open-source AI wellness and research platform that in
 [https://roxanneardary.com/corelia/](https://roxanneardary.com/corelia/)  
 An open-source, AI-powered CMS with end-to-end encryption, SEO and LLM optimization, and built-in web scraping tools for fully sovereign digital content management.  It empowers users with complete control over their content infrastructure.  
 
-- **CryptaVault**  
+- [**CryptaVault Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/ab38a20b3f9279a292640aed4b9652d3a8b8e4c8/CryptaVault.md)    
 [https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
 An open-source, zero-knowledge, end-to-end encrypted cloud storage system designed for secure cross-device synchronization and full user data ownership.  It prioritizes compression efficiency alongside privacy.  
 
