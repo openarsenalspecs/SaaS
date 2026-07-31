@@ -113,7 +113,7 @@ Structured verification for AI systems that evaluates, compares, and validates l
 [https://roxanneardary.com/narrativelayer/](https://roxanneardary.com/narrativelayer/)  
 An open-source system that transforms RSS feeds into structured, AI-enhanced discussion threads with synchronized views.  It improves content consumption and engagement.  
 
-- **NeuroText**  
+- [**NeuroText Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/58686150ab055d1f305cf2b01ee68a4b7a220a4c/NeuroText.md)    
 [https://roxanneardary.com/neurotext/](https://roxanneardary.com/neurotext/)  
 AI platform turning messaging prompts into code, apps, and projects with multi-platform integration.  It bridges natural communication and development workflows.  
 
