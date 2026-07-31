@@ -149,7 +149,7 @@ An open-source, AI-powered secure mobile app hub where developers can upload, sh
 [https://roxanneardary.com/sentryx/](https://roxanneardary.com/sentryx/)  
 A modular, open-source cloud backup and data protection system built with end-to-end encryption, distributed storage, and optional AI assistance.  It provides robust and scalable data safeguarding.  
 
-- **ShieldGrid**  
+- [**ShieldGrid Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/47f580e46bb4697f6e2c0fd26b756bbbd4869865/ShieldGrid.md)    
 [https://roxanneardary.com/shieldgrid/](https://roxanneardary.com/shieldgrid/)  
 An open-source AI cybersecurity platform that turns millions of devices into a unified, self-updating defense network against threats.  It leverages collective intelligence for protection.  
 
