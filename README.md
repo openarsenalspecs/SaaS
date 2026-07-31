@@ -21,7 +21,7 @@ The overall design philosophy emphasizes interoperability, security by default, 
 
 ## SaaS Specs
 
-- **Atlas Privacy Layer**  
+- [**Atlas Privacy Layer Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/ff08f2c0aac02b83ec7617cfa19196d5f68170c0/Atlas%20Privacy%20Layer.md)    
 [https://roxanneardary.com/atlas-privacy-layer/](https://roxanneardary.com/atlas-privacy-layer/)  
 A programmable privacy layer for Earth data that enables tile-level geospatial masking, scrambling, and synthetic terrain rendering to control how satellite and map imagery is displayed.  
 It provides fine-grained control over visual data presentation while maintaining privacy.  
