@@ -36,7 +36,7 @@ It emphasizes user ownership and transparency in data handling.
 A content intelligence system that continuously evolves web content to maintain relevance, accuracy, and AI search visibility through multi-agent analysis and real-time data ingestion.  
 It helps digital content stay optimized for modern discovery mechanisms.  
 
-- **CivicOS AI**  
+- [**CivicOS AI Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/26e86b2d06f31f6b13f67295fe977ebcf1ffbb70/CivicOS%20AI.md)    
 [https://roxanneardary.com/civicos-ai/](https://roxanneardary.com/civicos-ai/)  
 An open-source AGPL-3.0+ AI operating system for building interoperable, autonomous systems that unify intelligence across public and private organizations.  
 It facilitates collaboration between different sectors through shared intelligence frameworks.  
