@@ -111,33 +111,27 @@ Structured verification for AI systems that evaluates, compares, and validates l
 
 - **NarrativeLayer**  
 [https://roxanneardary.com/narrativelayer/](https://roxanneardary.com/narrativelayer/)  
-An open-source system that transforms RSS feeds into structured, AI-enhanced discussion threads with synchronized views.  
-It improves content consumption and engagement.  
+An open-source system that transforms RSS feeds into structured, AI-enhanced discussion threads with synchronized views.  It improves content consumption and engagement.  
 
 - **NeuroText**  
 [https://roxanneardary.com/neurotext/](https://roxanneardary.com/neurotext/)  
-AI platform turning messaging prompts into code, apps, and projects with multi-platform integration.  
-It bridges natural communication and development workflows.  
+AI platform turning messaging prompts into code, apps, and projects with multi-platform integration.  It bridges natural communication and development workflows.  
 
 - [**OpenDataLedger Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f967804d4c045dd9681bad37de2b1281d6618685/OpenDataLedger.md)    
 [https://roxanneardary.com/opendataledger/](https://roxanneardary.com/opendataledger/)  
-An open-source universal encrypted API engine designed to connect, unify, and securely manage data across virtually any system.  
-It simplifies secure data interoperability.  
+An open-source universal encrypted API engine designed to connect, unify, and securely manage data across virtually any system.  It simplifies secure data interoperability.  
 
-- **OriginSeal**  
+- [**OriginSeal Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/35f1eb71fc2784aea43fc82729d8bba5127fe7a4/OriginSeal.md)    
 [https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
-The Provenance Backbone for AI, providing a sovereign attribution and lineage infrastructure layer for MCP-based AI systems.  
-It ensures transparent origins and accountability.  
+The Provenance Backbone for AI, providing a sovereign attribution and lineage infrastructure layer for MCP-based AI systems.  It ensures transparent origins and accountability.  
 
 - **PantryPal**  
 [https://roxanneardary.com/pantrypal/](https://roxanneardary.com/pantrypal/)  
-An open-source AI-powered kitchen operating system that helps users discover recipes, track pantry inventory, and optimize shopping through natural language and image intelligence.  
-It streamlines household food management.  
+An open-source AI-powered kitchen operating system that helps users discover recipes, track pantry inventory, and optimize shopping through natural language and image intelligence.  It streamlines household food management.  
 
 - **PrivyKey**  
 [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
-An open-source, privacy-first encrypted authentication app that generates secure 2FA codes while keeping all secrets stored locally in a zero-knowledge vault.  
-It enhances authentication security without cloud dependency.  
+An open-source, privacy-first encrypted authentication app that generates secure 2FA codes while keeping all secrets stored locally in a zero-knowledge vault.  It enhances authentication security without cloud dependency.  
 
 - **Project SynthesisMotion**  
 [https://roxanneardary.com/project-synthesismotion/](https://roxanneardary.com/project-synthesismotion/)  
