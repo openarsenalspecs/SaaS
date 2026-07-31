@@ -125,7 +125,7 @@ An open-source universal encrypted API engine designed to connect, unify, and se
 [https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
 The Provenance Backbone for AI, providing a sovereign attribution and lineage infrastructure layer for MCP-based AI systems.  It ensures transparent origins and accountability.  
 
-- **PantryPal**  
+- [**PantryPal Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/5ee0563e1eae0a2becf21aeb07bf7abe0f5bbf68/PantryPal.md)    
 [https://roxanneardary.com/pantrypal/](https://roxanneardary.com/pantrypal/)  
 An open-source AI-powered kitchen operating system that helps users discover recipes, track pantry inventory, and optimize shopping through natural language and image intelligence.  It streamlines household food management.  
 
