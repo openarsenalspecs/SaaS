@@ -133,50 +133,41 @@ An open-source AI-powered kitchen operating system that helps users discover rec
 [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
 An open-source, privacy-first encrypted authentication app that generates secure 2FA codes while keeping all secrets stored locally in a zero-knowledge vault.  It enhances authentication security without cloud dependency.  
 
-- **Project SynthesisMotion**  
+- [**Project SynthesisMotion Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/53310e90dc5baf18f1f8e3047cd16b70de324ebc/Project%20SynthesisMotion.md)    
 [https://roxanneardary.com/project-synthesismotion/](https://roxanneardary.com/project-synthesismotion/)  
-An open-source adaptive motion intelligence framework that unifies real-time vehicle identity modeling, physics-informed control, and safety-verified autonomous systems.  
-It advances reliable autonomous vehicle technologies.  
+An open-source adaptive motion intelligence framework that unifies real-time vehicle identity modeling, physics-informed control, and safety-verified autonomous systems.  It advances reliable autonomous vehicle technologies.  
 
 - **QuantumSanctum**  
 [https://roxanneardary.com/quantumsanctum/](https://roxanneardary.com/quantumsanctum/)  
-A human-centric, end-to-end encrypted digital ecosystem that unifies secure storage, AI-powered collaboration, and privacy-first computing in one open-source platform.  
-It creates a comprehensive private digital environment.  
+A human-centric, end-to-end encrypted digital ecosystem that unifies secure storage, AI-powered collaboration, and privacy-first computing in one open-source platform.  It creates a comprehensive private digital environment.  
 
 - **SafeForge**  
 [https://roxanneardary.com/safeforge/](https://roxanneardary.com/safeforge/)  
-An open-source, AI-powered secure mobile app hub where developers can upload, share, and verify applications with encrypted data and automated malware detection.  
-It promotes safe software distribution.  
+An open-source, AI-powered secure mobile app hub where developers can upload, share, and verify applications with encrypted data and automated malware detection.  It promotes safe software distribution.  
 
 - [**Sentryx Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b002fef6fac21481d8692099042af9de01563f30/Sentryx.md)    
 [https://roxanneardary.com/sentryx/](https://roxanneardary.com/sentryx/)  
-A modular, open-source cloud backup and data protection system built with end-to-end encryption, distributed storage, and optional AI assistance.  
-It provides robust and scalable data safeguarding.  
+A modular, open-source cloud backup and data protection system built with end-to-end encryption, distributed storage, and optional AI assistance.  It provides robust and scalable data safeguarding.  
 
 - **ShieldGrid**  
 [https://roxanneardary.com/shieldgrid/](https://roxanneardary.com/shieldgrid/)  
-An open-source AI cybersecurity platform that turns millions of devices into a unified, self-updating defense network against threats.  
-It leverages collective intelligence for protection.  
+An open-source AI cybersecurity platform that turns millions of devices into a unified, self-updating defense network against threats.  It leverages collective intelligence for protection.  
 
 - [**SubscriptionIndex Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/1a9268070a7f0fb1c062ce233c51dfb7c9cc8fca/SubscriptionIndex.md)    
 [https://roxanneardary.com/subscriptionindex/](https://roxanneardary.com/subscriptionindex/)  
-An open-source, privacy-first AI system that detects subscriptions from financial data, explains contract terms, and helps prevent unexpected renewals.  
-It empowers users with subscription transparency and control.  
+An open-source, privacy-first AI system that detects subscriptions from financial data, explains contract terms, and helps prevent unexpected renewals.  It empowers users with subscription transparency and control.  
 
 - **SYSTEMIC AI FABRIC**  
 [https://roxanneardary.com/systemic-ai-fabric/](https://roxanneardary.com/systemic-ai-fabric/)  
-A modular AGPL-3.0+ framework for compiling regional AI systems shaped by local industry, infrastructure, and governance conditions.  
-It adapts AI to specific geographic and contextual needs.  
+A modular AGPL-3.0+ framework for compiling regional AI systems shaped by local industry, infrastructure, and governance conditions.  It adapts AI to specific geographic and contextual needs.  
 
 - **TownIntel**  
 [https://roxanneardary.com/townintel/](https://roxanneardary.com/townintel/)  
-Tracks rental registrations, landlord certifications, and census discrepancies at the town level with analytics and predictive insights.  
-It supports local governance and housing transparency.  
+Tracks rental registrations, landlord certifications, and census discrepancies at the town level with analytics and predictive insights.  It supports local governance and housing transparency.  
 
 - [**VeriChain Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/595e62cbb67dedccb5ce6099db0197d56f7b1802/VeriChain.md)    
 [https://roxanneardary.com/verichain/](https://roxanneardary.com/verichain/)  
-An open-source AI-powered truth verification system that analyzes public data to generate evidence-based, probabilistic truth assessments with full transparency.  
-It aids in combating misinformation through verifiable analysis.
+An open-source AI-powered truth verification system that analyzes public data to generate evidence-based, probabilistic truth assessments with full transparency.  It aids in combating misinformation through verifiable analysis.
 
 ---
 
