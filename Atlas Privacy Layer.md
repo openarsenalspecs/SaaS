@@ -1,4 +1,4 @@
-# Atlas Privacy Layer
+## Atlas Privacy Layer
 
 **A programmable privacy layer for Earth data.**
 
@@ -324,7 +324,7 @@ Atlas Privacy Layer is built on a simple principle:
 
 > **If you control the rendering layer, you control what is revealed.**
 
-Atlas does not modify external satellite imagery providers or claim to remove imagery from third-party services. Instead, it provides a programmable, privacy-aware rendering layer that enables organizations and developers to control how geospatial data is presented within the systems they deploy and manage.  
+Atlas does not modify external satellite imagery providers or claim to remove imagery from third-party services. Instead, it provides a programmable, privacy-aware rendering layer that enables organizations and developers to control how geospatial data is presented within the systems they deploy and manage.
 
 ---
 
@@ -342,21 +342,20 @@ Atlas does not modify external satellite imagery providers or claim to remove im
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
-  - [https://roxanneardary.com/atlas-urban-intelligence/](https://roxanneardary.com/atlas-urban-intelligence/)  
+  - [https://roxanneardary.com/atlas-privacy-layer/](https://roxanneardary.com/atlas-privacy-layer/)  
 
 ---
 
-# License & Notice Requirements
+## License & Notice Requirements
 
-Atlas Urban Intelligence is released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+Atlas Privacy Layer is released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
 By contributing to this project, you agree that your contributions will also be released under this license.
 
 Please note the following:
 
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
-  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.  
-- Atlas Urban Intelligence specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
