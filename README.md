@@ -119,7 +119,11 @@ Structured verification for AI systems that evaluates, compares, and validates l
 
 - [**NarrativeLayer Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/a19879ce868b685b54d6406314fa036aea6d463f/NarrativeLayer.md)    
 [https://roxanneardary.com/narrativelayer/](https://roxanneardary.com/narrativelayer/)  
-An open-source system that transforms RSS feeds into structured, AI-enhanced discussion threads with synchronized views.  It improves content consumption and engagement.  
+An open-source system that transforms RSS feeds into structured, AI-enhanced discussion threads with synchronized views.  It improves content consumption and engagement.
+
+- [**Nexalis Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f7598103f9916583123ffcc52863a30073c671d3/Nexalis.md)  
+[https://roxanneardary.com/nexalis/](https://roxanneardary.com/nexalis/)  
+A specification intelligence system for building, simulating, and evolving structured possible worlds from natural language intent.  
 
 - [**NeuroText Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/58686150ab055d1f305cf2b01ee68a4b7a220a4c/NeuroText.md)    
 [https://roxanneardary.com/neurotext/](https://roxanneardary.com/neurotext/)  
