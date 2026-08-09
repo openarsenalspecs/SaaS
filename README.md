@@ -103,7 +103,11 @@ The Engine Behind Autonomous AI, a self-improving open-source intelligence syste
 
 - [**KindredCode Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/0a678f0591f0f779c40a541a0aa0c635e257ebd3/KindredCode.md)    
 [https://roxanneardary.com/kindredcode/](https://roxanneardary.com/kindredcode/)  
-An open-source universal repository hub that consolidates creators’ projects across platforms and uses AI to connect developers based on shared ideas.  It fosters collaboration through conceptual alignment.  
+An open-source universal repository hub that consolidates creators’ projects across platforms and uses AI to connect developers based on shared ideas.  It fosters collaboration through conceptual alignment.
+
+- [**LoanRenew Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b4de7ac9560f76d6f5491984249b08b87a8b43cb/LoanRenew.md)
+[https://roxanneardary.com/loanrenew/](https://roxanneardary.com/loanrenew/)  
+LoanRenew is an open source specification for deterministic refinancing with renewable capital, combining transparent lending, automated reinvestment, investor participation, mortgage and title services, and public-record verification. Its modular architecture provides deterministic profit allocation, tax reserve reconciliation, investor dividend elections, capital accounting, and comprehensive financial transparency.
 
 - [**MeshCore Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/96b853bee94fa23e97706363e6aeaf0116274ba8/MeshCore.md)    
 [https://roxanneardary.com/meshcore/](https://roxanneardary.com/meshcore/)  
