@@ -73,7 +73,7 @@ An open-source, AI-powered CMS with end-to-end encryption, SEO and LLM optimizat
 [https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
 An open-source, zero-knowledge, end-to-end encrypted cloud storage system designed for secure cross-device synchronization and full user data ownership.  It prioritizes compression efficiency alongside privacy.  
 
-- [**CyberChimera Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/9a02989482e3182a16cf5c87eb415b8cec25c513/CyberChimera.md)    
+- [**CyberChimera Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/177c3c400f6d54389233759a5afbca2244eca02c/CyberChimera.md)    
 [https://roxanneardary.com/cyberchimera/](https://roxanneardary.com/cyberchimera/)  
 A next-generation autonomous cybersecurity intelligence platform that leverages multi-agent AI to predict, simulate, and respond to cyber threats.  It operates within a secure, extensible environment for both offensive and defensive capabilities.  
 
