@@ -1,6 +1,8 @@
 # ShieldGrid
+**Millions of Devices. One Shield.**  
+- HTML Mirror:  [https://roxanneardary.com/shieldgrid-specification/](https://roxanneardary.com/shieldgrid-specification/)
 
-**Millions of Devices. One Shield.**
+---
 
 ShieldGrid is an open-source autonomous AI cybersecurity platform designed to detect, analyze, contain, and recover from digital threats across desktops, laptops, mobile devices, servers, cloud environments, and embedded systems. Rather than relying solely on traditional signature databases, ShieldGrid uses behavioral analysis, adaptive AI, and continuous monitoring to create a living digital immune system capable of defending devices in real time.
 
