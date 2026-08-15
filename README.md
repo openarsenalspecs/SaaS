@@ -57,7 +57,7 @@ An AI-powered open-source platform that transforms ideas and social signals into
 [https://roxanneardary.com/codetraceai/](https://roxanneardary.com/codetraceai/)  
 An open-source AI system that merges concepts and protocols from multiple repositories to generate modern code with human approval and full contributor attribution.  It promotes ethical code synthesis across projects.  
 
-- [**CommonGuard Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/35d20b86a75482684d19ff9f33e11bf5a51a8b9b/CommonGuard.md)    
+- [**CommonGuard Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/8afa1a455fc7550007f9bcdf08e6dc4b909ccff0/CommonGuard.md)   
 [https://roxanneardary.com/commonguard/](https://roxanneardary.com/commonguard/)  
 An open-source AI platform that detects, analyzes, and helps enforce against potential trademark infringements across the web through automated monitoring and human-reviewed reporting.  It safeguards intellectual property with intelligent oversight.  
 
