@@ -25,7 +25,7 @@ The overall design philosophy emphasizes interoperability, security by default, 
 [https://roxanneardary.com/atlas-privacy-layer/](https://roxanneardary.com/atlas-privacy-layer/)  
 A programmable privacy layer for Earth data that enables tile-level geospatial masking, scrambling, and synthetic terrain rendering to control how satellite and map imagery is displayed.  It provides fine-grained control over visual data presentation while maintaining privacy.  
 
-- [**Authensia Cloud Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f76aa2fee97dd7ff3b06a3e7f0c9eee0ef3d57a8/Authensia%20Cloud.md)    
+- [**Authensia Cloud Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/72859d816e467ffdebb540bcfc84e2b21ef12b55/Authensia%20Cloud.md)    
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
 An open-source trust-centered cloud storage platform focused on end-to-end encryption, verifiable file integrity, authorship proof, and secure global access. It emphasizes user ownership and transparency in data handling.
 
