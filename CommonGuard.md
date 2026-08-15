@@ -1,6 +1,8 @@
 # CommonGuard
+**Eyes Wide Open. Detect. Flag. Enforce.**  
+- HTML Mirror:  [https://roxanneardary.com/commonguard-specification/](https://roxanneardary.com/commonguard-specification/)
 
-Eyes Wide Open. Detect. Flag. Enforce.
+---
 
 CommonGuard is an open-source AI trademark intelligence and enforcement platform that continuously monitors the web for potential trademark misuse, brand impersonation, counterfeit activity, and unauthorized commercial use. Designed with a modular architecture, CommonGuard combines AI-powered detection, evidence collection, human review, and enforcement workflows into a single extensible platform that organizations, legal teams, investigators, and open-source communities can deploy on their own infrastructure.
 
@@ -492,5 +494,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-CommonGuard — Protect your brand, proactively and transparently.
