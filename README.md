@@ -41,7 +41,7 @@ A content intelligence system that continuously evolves web content to maintain 
 [https://roxanneardary.com/civicos-ai/](https://roxanneardary.com/civicos-ai/)  
 An open-source AGPL-3.0+ AI operating system for building interoperable, autonomous systems that unify intelligence across public and private organizations.  It facilitates collaboration between different sectors through shared intelligence frameworks.  
 
-- [**CloudCommons Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/d3ceb8adb18a03a42b439047ba0eb75c977c5fbf/CloudCommons.md)    
+- [**CloudCommons Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/c6bc929d2385b9cd2bbdd36081b1eefc7a83c740/CloudCommons.md)     
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
 An open-source, multi-cloud, zero-trust infrastructure platform that combines strong security, AI-driven automation, and a low-code developer experience for managing infrastructure across diverse environments.  It supports public clouds, hybrid, edge, and self-hosted setups with privacy focus.  
 
