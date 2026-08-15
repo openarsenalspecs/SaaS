@@ -49,7 +49,7 @@ An open-source, multi-cloud, zero-trust infrastructure platform that combines st
 [https://roxanneardary.com/codedrop/](https://roxanneardary.com/codedrop/)  
 An open-source, secure, peer-to-peer system that lets you send executable apps instantly with one click using time-limited access codes and zero personal data. It enables frictionless and private software distribution.  
 
-- [**CodeIgniter Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b9ef393911668391585ffb61572b5a6db9419d87/CodeIgniter.md)    
+- [**CodeIgniter Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/05f0992bec63775b12986e94f78ba752693d6981/CodeIgniter.md)  
 [https://roxanneardary.com/codeigniter/](https://roxanneardary.com/codeigniter/)  
 An AI-powered open-source platform that transforms ideas and social signals into ready-to-use Git repositories for developers to instantly build and collaborate. It accelerates the transition from concept to collaborative development.  
 
