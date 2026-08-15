@@ -29,7 +29,7 @@ A programmable privacy layer for Earth data that enables tile-level geospatial m
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
 An open-source trust-centered cloud storage platform focused on end-to-end encryption, verifiable file integrity, authorship proof, and secure global access. It emphasizes user ownership and transparency in data handling.
 
-- [**CargoSphere**](https://github.com/openarsenalspecs/SaaS/blob/77e30121d9eecbe4f55ab98be83522667e66d47e/CargoSphere.md)  
+- [**CargoSphere Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/77e30121d9eecbe4f55ab98be83522667e66d47e/CargoSphere.md)  
  [https://roxanneardary.com/cargosphere/](https://roxanneardary.com/cargosphere/)  
 CargoSphere is an open AGPL-3.0+ modular specification for building commercial maritime intelligence platforms that connect port assets, ownership structures, operators, trade relationships, risk factors, and economic data. Designed for extensibility, CargoSphere provides a unified framework for analyzing the infrastructure and networks that support global commerce.
 
