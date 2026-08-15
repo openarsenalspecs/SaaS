@@ -1,6 +1,8 @@
 # CodeIgniter
+**AI Ignites. Developers Commit.**
+- HTML Mirror:  [https://roxanneardary.com/codeigniter-specification/](https://roxanneardary.com/codeigniter-specification/)
 
-### AI Ignites. Developers Commit.
+---
 
 CodeIgniter is an open-source, AI-powered repository launch platform that transforms ideas, discussions, specifications, and social signals into ready-to-use Git repositories. Designed as a modular ecosystem, CodeIgniter combines repository discovery, AI-assisted project generation, and collaborative development into a single platform where developers can move from concept to implementation in minutes.
 
@@ -489,6 +491,19 @@ CodeIgniter empowers developers to transform ideas into open-source software thr
 
 ---
 
+# Future Development
+
+Planned features include:
+
+- decentralized repository indexing
+- AI-generated project roadmaps
+- developer reputation scoring
+- open-source funding integration
+- automated documentation generation
+- trend dashboards for emerging technologies
+
+---
+
 ## Specification Branding License (SBL)
 ### Standard
 - Fully AGPL-3.0+ compliant system
@@ -522,28 +537,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-# Future Development
-
-Planned features include:
-
-- decentralized repository indexing
-- AI-generated project roadmaps
-- developer reputation scoring
-- open-source funding integration
-- automated documentation generation
-- trend dashboards for emerging technologies
-
----
-
-# Mission
-
-**CodeIgniter exists to ignite the next generation of open-source software.**
-
-Ideas should not remain buried in conversations.  
-They should become **repositories, communities, and working software.**
-
-**AI ignites. Developers commit.**
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
