@@ -133,7 +133,7 @@ AI platform turning messaging prompts into code, apps, and projects with multi-p
 [https://roxanneardary.com/nexalis/](https://roxanneardary.com/nexalis/)  
 A specification intelligence system for building, simulating, and evolving structured possible worlds from natural language intent.
 
-- **NexusGrid**
+- [**NexusGrid Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/de9f1e719da1b4baf5b07abf26163937b2f97ece/NexusGrid.md)  
 [https://roxanneardary.com/nexusgrid/](https://roxanneardary.com/nexusgrid/)  
 NexusGrid is a modular, provider-neutral telecommunications specification that enables users, devices, vehicles, and edge AI systems to dynamically discover, evaluate, select, and switch between available networks. It supports Wi-Fi, cellular, satellite, mesh, and other connectivity technologies while reducing vendor lock-in and giving users control over network choice, performance, cost, security, and reliability.  
 
