@@ -131,7 +131,11 @@ AI platform turning messaging prompts into code, apps, and projects with multi-p
 
 - [**Nexalis Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f7598103f9916583123ffcc52863a30073c671d3/Nexalis.md)  
 [https://roxanneardary.com/nexalis/](https://roxanneardary.com/nexalis/)  
-A specification intelligence system for building, simulating, and evolving structured possible worlds from natural language intent.  
+A specification intelligence system for building, simulating, and evolving structured possible worlds from natural language intent.
+
+- **NexusGrid**
+[https://roxanneardary.com/nexusgrid/](https://roxanneardary.com/nexusgrid/)  
+NexusGrid is a modular, provider-neutral telecommunications specification that enables users, devices, vehicles, and edge AI systems to dynamically discover, evaluate, select, and switch between available networks. It supports Wi-Fi, cellular, satellite, mesh, and other connectivity technologies while reducing vendor lock-in and giving users control over network choice, performance, cost, security, and reliability.  
 
 - [**OpenDataLedger Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f967804d4c045dd9681bad37de2b1281d6618685/OpenDataLedger.md)    
 [https://roxanneardary.com/opendataledger/](https://roxanneardary.com/opendataledger/)  
