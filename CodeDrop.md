@@ -1,35 +1,14 @@
 # CodeDrop Specification
+**Your apps, on their merry way.**
+- HTML Mirror:  [https://roxanneardary.com/codedrop-specification/](https://roxanneardary.com/codedrop-specification/)
+
+---
 
 ## Vision
 
 **CodeDrop** is an open-source executable transmission platform that makes software distribution as simple as sending a text message.
 
 Instead of uploading files to cloud storage, attaching large email attachments, or directing users to download pages, CodeDrop allows applications to be securely packaged, transmitted, verified, and prepared for installation in a single workflow.
-
-The project is designed around five principles:
-
-- Simplicity
-- Privacy
-- Security
-- Speed
-- Openness
-
-CodeDrop is licensed under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)** with additional attribution requirements under Section 7.
-
----
-
-# Core Goals
-
-- One-click software delivery
-- No account required
-- No personal information transmitted
-- End-to-end encrypted transfers
-- Cross-platform operation
-- Ready-to-install packages
-- Self-hostable infrastructure
-- Open protocol
-- Developer friendly
-- Organization friendly
 
 ---
 
@@ -48,17 +27,6 @@ CodeDrop becomes:
 ---
 
 # Feature Specification
-
-## Instant Software Delivery
-
-- One-click application transmission
-- Drag-and-drop support
-- Multiple file selection
-- Entire application folder support
-- Automatic package creation
-- Installation-ready delivery
-- Background transfers
-- Delivery confirmations
 
 ---
 
@@ -362,82 +330,6 @@ Possible integrations:
 
 ---
 
-## Cross-Platform Support
-
-Supported operating systems:
-
-- Linux
-- Windows
-- macOS
-
-Planned support:
-
-- Android
-- iOS
-- BSD
-
-Supported architectures:
-
-- x86
-- x64
-- ARM
-- ARM64
-
----
-
-## Self Hosting
-
-Anyone can host CodeDrop infrastructure.
-
-Possible components:
-
-- Relay servers
-- Organization servers
-- Discovery services
-- Package repositories
-- API gateways
-
-No vendor lock-in.
-
----
-
-## Open Standards
-
-CodeDrop is built on documented specifications.
-
-Planned specifications include:
-
-- Package format
-- Manifest format
-- Relay protocol
-- Addressing protocol
-- Encryption protocol
-- API specification
-- Extension specification
-
-Third-party implementations are encouraged.
-
----
-
-# Future Features
-
-Potential future capabilities include:
-
-- Voice initiated transfers
-- Browser extensions
-- AI-assisted package verification
-- AI dependency analysis
-- Automatic update channels
-- Package recommendations
-- Marketplace integration
-- Plugin ecosystem
-- Distributed relay network
-- Package reputation system
-- Container support
-- Virtual machine deployment
-
----
-
 # Guiding Principles
 
 Every feature should satisfy one or more of the following:
@@ -480,16 +372,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- CodeDrop specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- CodeDrop specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
----
-
-## Project Goal
-
-Make file sharing for software as easy as messaging —  
-fast, secure, privacy-preserving, and completely open-source.
