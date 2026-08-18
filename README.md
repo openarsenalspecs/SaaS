@@ -45,7 +45,7 @@ An open-source AGPL-3.0+ AI operating system for building interoperable, autonom
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
 An open-source, multi-cloud, zero-trust infrastructure platform that combines strong security, AI-driven automation, and a low-code developer experience for managing infrastructure across diverse environments.  It supports public clouds, hybrid, edge, and self-hosted setups with privacy focus.  
 
-- [**CodeDrop Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/4acd0ee64b264657668b107c031dc58bd927783a/CodeDrop.md)    
+- [**CodeDrop Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/aaabd47561220670b2d567e04fc4724325312060/CodeDrop.md)  
 [https://roxanneardary.com/codedrop/](https://roxanneardary.com/codedrop/)  
 An open-source, secure, peer-to-peer system that lets you send executable apps instantly with one click using time-limited access codes and zero personal data. It enables frictionless and private software distribution.  
 
