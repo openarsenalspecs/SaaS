@@ -65,7 +65,7 @@ An open-source AI platform that detects, analyzes, and helps enforce against pot
 [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)   
 A modular, locally hosted, open-source AI wellness and research platform that integrates Eastern medicinal traditions and Western medical knowledge through source-backed tools.  It supports integrative health approaches alongside professional care.  
 
-- [**Corelia Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/cd13445f716421a391a40a562817dfa016d1eb0b/Corelia.md)    
+- [**Corelia Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/2a430614d37f2431ce74325997caf8a7dc3a669a/Corelia.md)  
 [https://roxanneardary.com/corelia/](https://roxanneardary.com/corelia/)  
 An open-source, AI-powered CMS with end-to-end encryption, SEO and LLM optimization, and built-in web scraping tools for fully sovereign digital content management.  It empowers users with complete control over their content infrastructure.  
 
