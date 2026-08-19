@@ -93,7 +93,7 @@ An open-source AI system that translates mission statements and core values into
 [https://roxanneardary.com/governancefabric/](https://roxanneardary.com/governancefabric/)  
 GovernanceFabric is an open source AI governance specification that provides policy enforcement, continuous monitoring, compliance tracking, and audit infrastructure for AI systems, agents, and intelligent workflows. It enables organizations to build accountable AI operations through transparent governance, risk management, evidence collection, and human oversight.
 
-- [**Inspectra Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/63a2b8e9a7e593e2e8d259b161a2d5effaacc74e/Inspectra.md)    
+- [**Inspectra Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b93e83e6e0e47859b87c9cfa71ac6a8a15d39ca7/Inspectra.md)   
 [https://roxanneardary.com/inspectra/](https://roxanneardary.com/inspectra/)  
 An open-source, AI-assisted inspection platform that analyzes images to detect structural defects, risks, and anomalies with precision.  It aids in safety and maintenance assessments through visual intelligence.  
 
