@@ -1,6 +1,8 @@
 # Glasshouse Specification
-
 **Every Ingredient Has a Purpose**
+- HTML Mirror:  [https://roxanneardary.com/glasshouse-specification/](https://roxanneardary.com/glasshouse-specification/)  
+
+---
 
 Glasshouse is an open, modular specification for building AI-powered cocktail and mocktail management systems. The specification defines interoperable components for inventory management, recipe generation, conversational AI, shopping intelligence, pricing analysis, and privacy-first operation while remaining implementation independent.
 
@@ -199,39 +201,6 @@ Users may monitor:
 
 ---
 
-## Bargain Engine
-
-Designed for value-conscious users.
-
-Features include:
-
-- Best value recommendations
-- Lowest historical price
-- Buy now recommendations
-- Wait recommendations
-- Bulk purchase analysis
-- Seasonal purchasing advice
-- Alternative brands
-- Similar flavor recommendations
-
----
-
-## Notification Engine
-
-Supports notifications for:
-
-- Low inventory
-- Expiring ingredients
-- Price drops
-- Price increases
-- Recipe recommendations
-- Seasonal drinks
-- Holiday drinks
-- Community recipes
-- Shopping reminders
-
----
-
 ## Sustainability Engine
 
 Encourages reduced waste through:
@@ -242,108 +211,6 @@ Encourages reduced waste through:
 - Seasonal ingredients
 - Efficient shopping
 - Reduced duplicate purchases
-
----
-
-## Party Planning Module
-
-Supports:
-
-- Guest count
-- Budget planning
-- Shopping estimates
-- Recipe scaling
-- Ice calculations
-- Garnish estimates
-- Beverage variety
-- Alcoholic/non-alcoholic balance
-
----
-
-## Community Module
-
-Supports optional community features.
-
-Including:
-
-- Recipe sharing
-- Recipe ratings
-- Collections
-- Favorites
-- Seasonal challenges
-- Mixology achievements
-
-Community functionality should remain optional.
-
----
-
-## Privacy Module
-
-The specification prioritizes privacy.
-
-Requirements include:
-
-- Local-first architecture
-- Self-contained AI
-- Offline operation
-- End-to-end encryption
-- User-owned data
-- No mandatory cloud services
-- No mandatory telemetry
-- Configurable synchronization
-
----
-
-## Security Module
-
-Supports:
-
-- Encrypted storage
-- Secure synchronization
-- Authentication
-- Authorization
-- Key management
-- Audit logging
-- Secure backups
-
----
-
-## AI Module
-
-Supports interchangeable AI providers including:
-
-- Local language models
-- Self-hosted models
-- Cloud models
-- Hybrid deployments
-
-Capabilities include:
-
-- Natural language understanding
-- Ingredient extraction
-- Recipe generation
-- Shopping recommendations
-- Flavor analysis
-- Conversational assistance
-
-The specification does not require any particular AI model.
-
----
-
-## Integration Module
-
-Optional integrations include:
-
-- Barcode scanners
-- Smart refrigerators
-- Voice assistants
-- Smart speakers
-- Smart displays
-- Retail APIs
-- Grocery APIs
-- Liquor store APIs
-- Calendar applications
-- Shopping applications
 
 ---
 
@@ -388,37 +255,6 @@ Modules communicate through documented interfaces and should remain loosely coup
 
 ---
 
-# Design Principles
-
-- Modular
-- Extensible
-- Vendor neutral
-- Local first
-- Privacy first
-- AI optional
-- Human centered
-- Open architecture
-- Interoperable
-- Secure by default
-
----
-
-# Intended Implementations
-
-Glasshouse may be implemented as:
-
-- Mobile applications
-- Desktop applications
-- Progressive web applications
-- Self-hosted servers
-- Enterprise platforms
-- Smart home systems
-- Restaurant systems
-- Hospitality management platforms
-- Educational tools
-
----
-
 ## Specification Branding License (SBL)
 ### Standard
 - Fully AGPL-3.0+ compliant system
@@ -446,35 +282,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- Glasshouse specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- Glasshouse specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-## Branding
-
-- Name: **Glasshouse**  
-- Tagline: **Every Ingredient Has a Purpose**  
-
----
-
-## Contact / Support
-
-- Website: [https://roxanneardary.com](https://www.roxanneardary.com)  
-- Issues / Feedback: Open an issue on Codeberg  
-
----
-
-## Future Roadmap
-
-- Integration with smart home assistants  
-- Barcode scanning and inventory automation  
-- Community recipe sharing & curation  
-- Seasonal ingredient suggestions and gamified challenges  
-
-> 🍸 Build, pour, sip — safely, smartly, sustainably, and with style. Track prices, save money, and always make the perfect drink.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
