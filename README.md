@@ -81,7 +81,7 @@ A next-generation autonomous cybersecurity intelligence platform that leverages 
 [https://roxanneardary.com/geolisting/](https://roxanneardary.com/geolisting/)  
 Open Semantic Infrastructure for Real Estate, an AI-powered platform for listing generation, SEO optimization, compliance automation, and semantic property discovery.  It streamlines real estate processes with intelligent tools.  
 
-- [**Glasshouse Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/9627be6513e5a925a233ae4f2db5a799eabe579d/Glasshouse.md)    
+- [**Glasshouse Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/d325ebe3cae0d3f7b647c5aece3c1789a35b9fb9/Glasshouse.md)  
 [https://roxanneardary.com/glasshouse/](https://roxanneardary.com/glasshouse/)  
 An AI-powered cocktail and mocktail companion that manages your inventory, creates personalized recipes, and tracks prices while keeping your data private.  It enhances home bartending with intelligent assistance.  
 
