@@ -1,172 +1,633 @@
 # Inspectra
 **Precision inspection, powered by AI**
-
-Inspectra is an open-source, AI-assisted inspection platform for analyzing homes and structures using multi-image computer vision, sensor fusion, predictive modeling, modular plugins, and hardware integration. It is designed to augment professional inspectors with medical-grade style diagnostic intelligence for the built environment.
-
-**License:** GNU Affero General Public License v3.0 or later (AGPL-3.0+)  
-**Attribution:** All contributions must provide attribution to **Roxanne Ardary** and **https://www.roxanneardary.com/**  
+- HTML Mirror:  [https://roxanneardary.com/inspectra-specification/](https://roxanneardary.com/inspectra-specification/)
 
 ---
 
-## Core Concept
+Inspectra is an open-source, AI-assisted inspection specification designed to provide advanced visual analysis, data intelligence, risk prediction, field-ready inspection tools, hardware integration, and automated reporting for homes and structures.
 
-Inspectra functions as a **structural intelligence system** that combines:
-- Computer vision analysis of inspection images
-- Multi-sensor data ingestion
-- AI-assisted reporting and defect classification
-- Predictive risk modeling
-- Open plugin and hardware expansion
-
-It is designed for field use, scalability, and long-term open-source ecosystem growth.
+Inspectra uses a modular architecture in which core inspection capabilities operate as independent modules. Optional plugin modules extend the platform with specialized AI models, hardware integrations, workflows, reporting systems, regional intelligence, and future inspection applications without requiring changes to the core system.  
 
 ---
 
-## Full Feature Specification
+## Core Modules
+
+### AI Vision Module
+
+The AI Vision Module provides the primary computer vision capabilities used to analyze inspection imagery.
+
+Features include:
+
+- Multi-image defect detection
+- Object detection
+- Image segmentation
+- Visual anomaly detection
+- Crack detection
+- Moisture-related visual detection
+- Mold indicator detection
+- Corrosion detection
+- Surface damage detection
+- Installation anomaly detection
+- Structural anomaly detection
+- Defect localization
+- Visual evidence highlighting
+- Confidence scoring
+- Explainable AI findings
+- Cross-image consistency analysis
+- Image quality assessment
+
+The module is designed to analyze individual images as well as collections of images representing a room, component, system, or property.
 
 ---
 
-## 🧠 Core AI Inspection Engine
+### Multi-Image Intelligence Module
 
-- Multi-image defect detection across full structures and rooms  
-- Object detection and segmentation for cracks, moisture, mold, corrosion, and structural anomalies  
-- Confidence scoring for all detected issues  
-- Explainable AI outputs for inspection transparency  
-- Human-in-the-loop validation for all AI findings  
-- Cross-image consistency checking to reduce false positives  
+The Multi-Image Intelligence Module provides contextual understanding across multiple photographs.
 
----
+Features include:
 
-## 📸 Multi-Modal Data Ingestion
+- Multi-angle image analysis
+- Room-level visual understanding
+- Component-level image grouping
+- Spatial relationship analysis
+- Image-to-image comparison
+- Duplicate and near-duplicate detection
+- Cross-image defect verification
+- Multi-image evidence correlation
+- Visual reconstruction
+- Inspection area mapping
+- Defect location relationships
 
-- Smartphone photo-based inspection capture  
-- Drone aerial imaging support  
-- Thermal imaging input integration  
-- LiDAR and depth scan support  
-- Environmental sensor data ingestion (temperature, humidity, CO₂, air pressure)  
-- Multi-angle image fusion for spatial understanding  
-
----
-
-## 🧠 Data Intelligence Layer
-
-- Multi-image room reconstruction and spatial mapping  
-- Temporal inspection comparison (damage progression tracking)  
-- Defect clustering and system-level correlation analysis  
-- Environmental context awareness (climate, region, materials)  
-- Sensor fusion across visual, thermal, depth, and environmental inputs  
-- Structural relationship modeling between detected issues  
+This module allows Inspectra to evaluate a collection of images rather than treating every photograph as an isolated observation.
 
 ---
 
-## ⚠️ Risk Prediction Engine
+### Data Intelligence Module
 
-- Failure probability modeling for detected defects  
-- Time-to-failure estimation (short-term and long-term risk windows)  
-- Maintenance urgency classification (low, medium, high, critical)  
-- Structural degradation trajectory modeling  
-- Environmental risk adjustment based on region and climate  
-- Optional cost impact estimation module  
+The Data Intelligence Module converts inspection observations into structured inspection intelligence.
 
----
+Features include:
 
-## 🧾 Inspection Reporting System
+- Defect clustering
+- Defect correlation
+- Component relationship modeling
+- Historical inspection analysis
+- Environmental context analysis
+- Building-type context
+- Material context
+- Regional context
+- Inspection trend analysis
+- Pattern recognition
+- Cross-property analysis
+- Structured inspection metadata
+- Sensor data correlation
+- Historical condition tracking
 
-- Automated professional inspection report generation  
-- Multi-format exports (PDF, JSON, CSV)  
-- Evidence-linked reporting (image + sensor traceability)  
-- Multi-audience report modes (homeowner, insurance, contractor, legal)  
-- AI-generated structured narrative descriptions  
-- Full audit trail of AI + human decisions  
-
----
-
-## 📱 Field-Ready Inspector Tools
-
-- Offline-first inspection mode for field environments  
-- Voice-to-report structured note capture  
-- Guided inspection workflows by property type  
-- AR-based defect visualization overlays  
-- One-tap inspection templates (residential, commercial, insurance, pre-sale)  
-- Rapid scan workflows for quick property assessments  
+The module is designed to identify relationships between observations that may not be apparent from individual findings.
 
 ---
 
-## 🧩 Modular Architecture System
+### Risk Prediction Engine
 
-- Fully modular system design across all components  
-- Independent AI, ingestion, reporting, and sensor modules  
-- Standardized internal data contracts between modules  
-- Local or cloud deployment support  
-- Extensible architecture for new inspection domains  
-- Non-destructive module and plugin integration  
+The Risk Prediction Engine extends Inspectra from current-condition detection into forward-looking risk analysis.
 
----
+Features include:
 
-## 🔌 Plugin System
+- Risk classification
+- Risk trajectory analysis
+- Defect progression modeling
+- Failure probability estimation
+- Time-to-risk estimation
+- Maintenance urgency scoring
+- Structural degradation analysis
+- Environmental risk adjustment
+- Regional risk modeling
+- Material-specific risk modeling
+- Historical progression comparison
+- Follow-up inspection recommendations
+- Preventive maintenance recommendations
+- Optional cost impact estimation
 
-- AI model plugins (roofing, HVAC, plumbing, electrical, structural)  
-- Workflow customization plugins by inspection type  
-- Report format plugins for industry-specific outputs  
-- Device integration plugins (drone, thermal, LiDAR, sensor kits)  
-- Regional intelligence plugins for climate/material variations  
-- AI agent plugins for specialized inspection roles  
-
----
-
-## 🧠 Hardware Module Ecosystem
-
-- High-resolution inspection camera modules  
-- Thermal imaging hardware integration  
-- LiDAR depth scanning modules  
-- Moisture and humidity probe sensors  
-- Acoustic leak and structural stress detection devices  
-- Environmental sensor packs (air quality, CO₂, temperature)  
-- Drone-based inspection integration kits  
-- Edge computing devices for offline AI processing  
+Risk predictions are intended to support inspection decisions and prioritization. They are not intended to replace qualified professional judgment, engineering evaluation, or required inspections.
 
 ---
 
-## 🌐 Inspectra Network
+### Sensor Fusion Module
 
-- Federated inspection data sharing (opt-in, privacy-first)  
-- Community-driven Inspectra Commons dataset  
-- Global structural defect pattern aggregation  
-- Model marketplace for specialized inspection AI  
-- Inspection reputation and validation system  
-- Decentralized contribution model for continuous learning  
-- Privacy-preserving data participation controls  
+The Sensor Fusion Module combines information from multiple inspection technologies.
 
----
+Supported data sources include:
 
-## ⚠️ Risk Intelligence Network Effects
+- RGB imagery
+- Thermal imagery
+- LiDAR data
+- Depth data
+- Moisture readings
+- Humidity readings
+- Temperature readings
+- Acoustic readings
+- Air-quality readings
+- CO₂ readings
+- Pressure readings
+- Other compatible environmental and structural sensors
 
-- Cross-inspection learning from real-world outcomes  
-- Regional structural risk pattern recognition  
-- Long-term degradation modeling across building types  
-- Global intelligence improvements from aggregated inspections  
+Features include:
 
----
-
-## 🚀 System-Level Capabilities
-
-- End-to-end AI-assisted inspection workflow  
-- Real-time and offline operational support  
-- Cross-modal sensor fusion intelligence  
-- Predictive structural health modeling  
-- Fully modular hardware + software ecosystem  
-- Open-source AGPL-3.0+ licensed architecture  
-- Community-driven continuous improvement model  
+- Cross-sensor correlation
+- Multi-modal anomaly detection
+- Sensor confidence analysis
+- Sensor-to-image relationships
+- Environmental context integration
+- Combined evidence generation
+- Multi-modal risk analysis
 
 ---
 
-## Future Expansion Roadmap
+### Inspection Workflow Module
 
-- Digital twin creation for full property lifecycle tracking  
-- Real-time AR + spatial mapping overlays  
-- Fully autonomous inspection agents per building system  
-- Insurance and compliance automation integrations  
-- Smart city / municipal inspection network compatibility  
-- Self-improving federated AI models across global deployments  
+The Inspection Workflow Module provides structured field workflows.
+
+Features include:
+
+- Guided inspection workflows
+- Property-type workflows
+- Room-by-room workflows
+- Component-specific workflows
+- Inspection checklists
+- Required evidence prompts
+- Missing-data detection
+- Inspection progress tracking
+- Inspection session management
+- Custom workflow configuration
+- Reinspection workflows
+- Follow-up inspection workflows
+- Rapid assessment workflows
+
+---
+
+### Field Inspector Module
+
+The Field Inspector Module provides tools designed for real-world inspection environments.
+
+Features include:
+
+- Mobile inspection support
+- Offline-first operation
+- Local data processing
+- Voice-to-report capture
+- AI-assisted field notes
+- Automatic image organization
+- On-site defect review
+- Evidence capture
+- Inspection annotations
+- Inspector verification
+- Guided image capture
+- Real-time inspection assistance
+- Inspection session synchronization
+
+---
+
+### Hardware Integration Module
+
+The Hardware Integration Module provides standardized interfaces for inspection hardware.
+
+Supported hardware categories include:
+
+- High-resolution inspection cameras
+- Macro cameras
+- Thermal cameras
+- LiDAR scanners
+- Depth cameras
+- Moisture meters
+- Humidity sensors
+- Temperature sensors
+- Acoustic sensors
+- Air-quality sensors
+- CO₂ sensors
+- Pressure sensors
+- Drones
+- External inspection devices
+- Edge computing hardware
+
+Hardware modules are designed to provide standardized data to the Inspectra intelligence system.
+
+---
+
+### Reporting Module
+
+The Reporting Module converts inspection findings into structured reports.
+
+Features include:
+
+- Automated report generation
+- AI-assisted report narratives
+- Finding summaries
+- Defect descriptions
+- Severity classification
+- Confidence information
+- Evidence-linked findings
+- Image references
+- Sensor references
+- Inspector observations
+- Inspector verification
+- Inspection history
+- Audit trails
+- Custom report templates
+- Multi-audience reporting
+
+Supported report applications may include:
+
+- Home inspection reports
+- Property condition reports
+- Insurance documentation
+- Contractor documentation
+- Maintenance reports
+- Compliance documentation
+- Property management reports
+
+---
+
+### Evidence and Audit Module
+
+The Evidence and Audit Module maintains traceability between inspection conclusions and supporting evidence.
+
+Features include:
+
+- Image-to-finding relationships
+- Sensor-to-finding relationships
+- AI analysis records
+- Human verification records
+- Finding history
+- Report revision history
+- Inspection timestamps
+- Evidence metadata
+- Model identification
+- Confidence records
+- Audit logging
+
+The objective is to make inspection findings traceable and reviewable.
+
+---
+
+### Property Intelligence Module
+
+The Property Intelligence Module maintains longitudinal information about inspected properties.
+
+Features include:
+
+- Property profiles
+- Building component profiles
+- Inspection histories
+- Defect histories
+- Condition timelines
+- Component-level tracking
+- Previous finding comparison
+- Recurring issue detection
+- Maintenance history
+- Risk history
+- Property condition trends
+
+The module provides the foundation for future digital property models and digital twin capabilities.
+
+---
+
+### Privacy and Security Module
+
+The Privacy and Security Module provides controls for inspection data.
+
+Features include:
+
+- Local processing
+- Offline operation
+- User-controlled storage
+- Optional cloud synchronization
+- Configurable data retention
+- Access controls
+- Permission-based sharing
+- Encrypted inspection records
+- Audit logging
+- Privacy-preserving network participation
+- Configurable network data contribution
+
+Inspectra is designed so that network participation can remain optional.
+
+---
+
+### Inspectra Network Module
+
+The Inspectra Network provides the optional network intelligence layer connecting participating Inspectra deployments.
+
+Features include:
+
+- Opt-in inspection data contribution
+- Privacy-preserving data sharing
+- Federated inspection intelligence
+- Community defect datasets
+- Regional defect intelligence
+- Model contribution
+- Model validation
+- Inspection outcome sharing
+- Cross-inspection learning
+- Community knowledge development
+- Distributed inspection intelligence
+
+The Inspectra Network is designed to allow participating users and organizations to contribute knowledge without requiring unrestricted access to their underlying inspection records.
+
+---
+
+### Inspectra Commons Module
+
+Inspectra Commons provides a community-oriented data and model ecosystem.
+
+Features include:
+
+- Labeled defect datasets
+- Inspection imagery datasets
+- Sensor datasets
+- Regional datasets
+- Building-material datasets
+- Model training resources
+- Model evaluation resources
+- Validation datasets
+- Community contributions
+- Dataset provenance
+- Model provenance
+- Dataset versioning
+- Community quality review
+
+---
+
+## Optional Plugin Modules
+
+Optional plugins extend Inspectra without requiring additional capabilities to become part of the core platform.
+
+### Specialized AI Plugins
+
+Potential plugins include:
+
+- Roofing analysis
+- Foundation analysis
+- Structural analysis
+- Electrical analysis
+- Plumbing analysis
+- HVAC analysis
+- Exterior analysis
+- Interior analysis
+- Moisture analysis
+- Thermal analysis
+- Environmental analysis
+- Pest and damage analysis
+- Material identification
+- Construction defect analysis
+
+---
+
+### Hardware Plugins
+
+Potential hardware plugins include:
+
+- Thermal camera integrations
+- LiDAR integrations
+- Drone integrations
+- Moisture meter integrations
+- Acoustic sensor integrations
+- Air-quality sensor integrations
+- Environmental sensor packs
+- Specialty inspection cameras
+- Edge AI devices
+- Custom inspection hardware
+
+Hardware plugins should use standardized interfaces so hardware can be added or removed without changing the core inspection engine.
+
+---
+
+### Workflow Plugins
+
+Potential workflow plugins include:
+
+- Residential inspections
+- Commercial inspections
+- Pre-purchase inspections
+- Pre-listing inspections
+- Insurance inspections
+- Maintenance inspections
+- Reinspection workflows
+- Post-repair inspections
+- Disaster assessment workflows
+- Municipal inspection workflows
+- Property management workflows
+
+---
+
+### Reporting Plugins
+
+Potential reporting plugins include:
+
+- Insurance report formats
+- Contractor work orders
+- Property management reports
+- Real estate reports
+- Compliance reports
+- Maintenance reports
+- Custom organizational reports
+- Data exchange formats
+
+---
+
+### Regional Intelligence Plugins
+
+Regional plugins may provide localized inspection intelligence based on:
+
+- Climate
+- Weather exposure
+- Construction practices
+- Building materials
+- Regional building characteristics
+- Environmental conditions
+- Local inspection requirements
+
+Regional plugins should be independently maintained and versioned.
+
+---
+
+### AI Agent Plugins
+
+Optional AI agents may specialize in individual inspection domains.
+
+Potential agents include:
+
+- Structural inspection assistant
+- Roofing inspection assistant
+- Electrical inspection assistant
+- Plumbing inspection assistant
+- HVAC inspection assistant
+- Foundation inspection assistant
+- Moisture analysis assistant
+- Insurance documentation assistant
+- Report review assistant
+- Maintenance planning assistant
+
+AI agents are intended to provide specialized assistance while maintaining human oversight.
+
+---
+
+## Plugin System Requirements
+
+The Inspectra plugin system is designed to provide controlled extensibility.
+
+Plugins should support:
+
+- Defined interfaces
+- Version compatibility
+- Module isolation
+- Configuration management
+- Permission controls
+- Input and output specifications
+- Error handling
+- Logging
+- Documentation
+- Version tracking
+- Model provenance
+- Hardware identification where applicable
+
+Plugins should not require modifications to unrelated core modules.
+
+---
+
+## AI Model Ecosystem
+
+Inspectra is designed to support multiple AI approaches rather than requiring a single model.
+
+Potential model capabilities include:
+
+- Object detection
+- Image classification
+- Image segmentation
+- Anomaly detection
+- Vision-language analysis
+- Multi-image reasoning
+- Temporal comparison
+- Depth analysis
+- Thermal analysis
+- Sensor fusion
+- Predictive modeling
+
+Models may be replaced, upgraded, or specialized through the modular architecture.
+
+---
+
+## Digital Twin Expansion
+
+Future Inspectra capabilities may include property-level digital twins.
+
+Potential capabilities include:
+
+- Three-dimensional property representation
+- Building component mapping
+- Historical condition layers
+- Defect location mapping
+- Structural change visualization
+- Moisture progression visualization
+- Thermal condition mapping
+- Maintenance history integration
+- Risk visualization
+- Longitudinal property health modeling
+
+---
+
+## Advanced Field Intelligence
+
+Future field capabilities may include:
+
+- Real-time AI camera assistance
+- AR defect overlays
+- Live sensor fusion
+- Real-time spatial mapping
+- Automated inspection path guidance
+- Intelligent image capture recommendations
+- Automated missing-evidence detection
+- Edge-based AI inference
+- Voice-controlled inspection workflows
+- Automated follow-up recommendations
+
+---
+
+## Future Predictive Intelligence
+
+Future versions may expand predictive capabilities to include:
+
+- Advanced degradation models
+- Building-component life-cycle prediction
+- Preventive maintenance forecasting
+- Regional risk intelligence
+- Environmental impact modeling
+- Historical failure pattern analysis
+- Cross-property risk modeling
+- Longitudinal structural health analysis
+
+Predictive outputs should remain clearly identified as estimates and should provide appropriate uncertainty information.
+
+---
+
+## Open-Source Design Principles
+
+Inspectra is designed around:
+
+- Open-source development
+- Modular architecture
+- Hardware interoperability
+- Vendor-neutral integrations
+- Local-first capabilities
+- Privacy-conscious operation
+- Human oversight
+- Transparent AI workflows
+- Community participation
+- Reproducible model development
+- Extensible inspection intelligence
+- No mandatory vendor lock-in
+
+---
+
+## Intended Users
+
+Inspectra is designed to support:
+
+- Professional home inspectors
+- Property inspectors
+- Building inspectors
+- Structural professionals
+- Contractors
+- Property managers
+- Insurance professionals
+- Real estate professionals
+- Researchers
+- AI developers
+- Hardware developers
+- Inspection technology developers
+- Municipal inspection programs
+
+Inspectra is an assistance and intelligence platform. Professional users remain responsible for validating findings and applying appropriate professional standards.
+
+---
+
+## Development Direction
+
+Inspectra is intended to evolve from an AI-assisted image inspection application into a comprehensive **multi-modal structural intelligence platform**.
+
+The development direction includes:
+
+- More capable computer vision
+- More accurate multi-image analysis
+- Expanded defect datasets
+- More hardware integrations
+- Improved predictive modeling
+- Advanced field tools
+- Specialized inspection plugins
+- Community-developed AI models
+- Inspectra Network expansion
+- Digital property intelligence
+- Digital twin capabilities
+- Greater offline and edge processing
 
 ---
 
@@ -203,4 +664,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
