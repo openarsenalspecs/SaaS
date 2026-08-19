@@ -97,7 +97,7 @@ GovernanceFabric is an open source AI governance specification that provides pol
 [https://roxanneardary.com/inspectra/](https://roxanneardary.com/inspectra/)  
 An open-source, AI-assisted inspection platform that analyzes images to detect structural defects, risks, and anomalies with precision.  It aids in safety and maintenance assessments through visual intelligence.  
 
-- [**IteraMind Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/58be322d31acb918799eee7894df17843c36a8e1/IteraMind.md)    
+- [**IteraMind Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/fafb2297b851fe1526969eeba611d4b797c19da4/IteraMind.md)   
 [https://roxanneardary.com/iteramind/](https://roxanneardary.com/iteramind/)  
 The Engine Behind Autonomous AI, a self-improving open-source intelligence system designed to reason, plan, execute, and evolve over time.  It serves as a core framework for advanced autonomous systems.  
 
