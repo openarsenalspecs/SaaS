@@ -157,7 +157,7 @@ An open-source, privacy-first encrypted authentication app that generates secure
 [https://roxanneardary.com/project-synthesismotion/](https://roxanneardary.com/project-synthesismotion/)  
 An open-source adaptive motion intelligence framework that unifies real-time vehicle identity modeling, physics-informed control, and safety-verified autonomous systems.  It advances reliable autonomous vehicle technologies.  
 
-- [**QuantumSanctum Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/a34fe12d523b0e3e90bbb68a2c85a74c08564681/QuantumSanctum.md)    
+- [**QuantumSanctum Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/167e7dae978b34857283b0c29c7f44d0c0c901dc/QuantumSanctum.md)    
 [https://roxanneardary.com/quantumsanctum/](https://roxanneardary.com/quantumsanctum/)  
 A human-centric, end-to-end encrypted digital ecosystem that unifies secure storage, AI-powered collaboration, and privacy-first computing in one open-source platform.  It creates a comprehensive private digital environment.  
 
