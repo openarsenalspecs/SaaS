@@ -137,7 +137,7 @@ A specification intelligence system for building, simulating, and evolving struc
 [https://roxanneardary.com/nexusgrid/](https://roxanneardary.com/nexusgrid/)  
 NexusGrid is a modular, provider-neutral telecommunications specification that enables users, devices, vehicles, and edge AI systems to dynamically discover, evaluate, select, and switch between available networks. It supports Wi-Fi, cellular, satellite, mesh, and other connectivity technologies while reducing vendor lock-in and giving users control over network choice, performance, cost, security, and reliability.  
 
-- [**OpenDataLedger Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f967804d4c045dd9681bad37de2b1281d6618685/OpenDataLedger.md)    
+- [**OpenDataLedger Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/828ef2eecd276f87f42d4647616e1833608bc53c/OpenDataLedger.md)   
 [https://roxanneardary.com/opendataledger/](https://roxanneardary.com/opendataledger/)  
 An open-source universal encrypted API engine designed to connect, unify, and securely manage data across virtually any system.  It simplifies secure data interoperability.  
 
