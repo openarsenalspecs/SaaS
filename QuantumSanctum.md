@@ -1,10 +1,10 @@
 # QuantumSanctum
-
 **Work Freely. Share Safely.**  
+- HTML Mirror:  [https://roxanneardary.com/quantumsanctum-specification/](https://roxanneardary.com/quantumsanctum-specification/)
+
+---
 
 QuantumSanctum is an **open-source, end-to-end encrypted, human-centric digital ecosystem**. It combines **secure storage, AI assistance, collaboration tools, legal and compliance workflows, IoT/AR/VR integration, and future-proof quantum security**. Designed for individuals, teams, and organizations, QuantumSanctum ensures your data remains **encrypted, autonomous, and fully under your control**.  
-
-**License:** [GNU Affero General Public License v3+ (AGPL-3.0+)](https://www.gnu.org/licenses/agpl-3.0.html)  
 
 ---
 
@@ -503,9 +503,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-**QuantumSanctum — Work Freely. Share Safely.**  
-A human-centric, AI-enabled, end-to-end encrypted digital ecosystem for the quantum era.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
