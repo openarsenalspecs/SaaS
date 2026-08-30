@@ -188,7 +188,7 @@ Tracks rental registrations, landlord certifications, and census discrepancies a
 [https://roxanneardary.com/verichain/](https://roxanneardary.com/verichain/)  
 An open-source AI-powered truth verification system that analyzes public data to generate evidence-based, probabilistic truth assessments with full transparency.  It aids in combating misinformation through verifiable analysis.
 
-- **WebDetective**  
+- [**WebDetective Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/d60f3f9d3cd1731d7b5e888b2b3c8c9d143735db/WebDetective.md)    
 [https://roxanneardary.com/webdetective/(https://roxanneardary.com/webdetective/)  
 WebDetective is a modular, multi-agent website research and intelligence specification for discovering, archiving, and analyzing websites, search engines, keywords, backlinks, content, site structures, and SEO strategies. It combines specialized research agents with evidence preservation, provenance tracking, historical analysis, and extensible plugins to produce comprehensive, reproducible website intelligence.  
 
